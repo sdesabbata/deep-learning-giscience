@@ -13,18 +13,16 @@ excerpt: >
   Advances, opportunities and limits of deep machine learning approaches in GIScience at the RGS AIC 2020
 ---
 
-**Because of Covid, the RGS-IBG Annual International Conference 2020 has been postponed to 2021.**
-
-The organisers and the [GIScience Research Group (GIScRG)](https://quantile.info/giscrg/) of the [Royal Geographical Society](https://www.rgs.org/) invite authors to submit 250-word abstracts for presentation at the **Deep learning approaches in GIScience** session at the [RGS-IBG Annual International Conference 2020](https://www.rgs.org/research/annual-international-conference/).
+The organisers and the [GIScience Research Group](https://geoinfo.science/) of the [Royal Geographical Society with IBG](https://www.rgs.org/) invite authors to submit 250-word abstracts for presentation at the **Deep learning approaches in GIScience** session at the [RGS-IBG Annual International Conference 2021](https://www.rgs.org/research/annual-international-conference/).
 
 
 ## Instructions for Authors
-Please submit abstracts of no more than 250 words (excluding references) for 15-minute presentations to [s.desabbata@le.ac.uk](mailto:s.desabbata@le.ac.uk?subject=[RGS-IBG%20AIC%202020,%20Deep%20learning%20GIScience]%20Abstract%20submission) before January 31st, 2020.
+Please submit abstracts of no more than 250 words (excluding references) for 15-minute presentations to [s.desabbata@le.ac.uk](mailto:s.desabbata@le.ac.uk?subject=[RGS-IBG%20AIC%202020,%20Deep%20learning%20GIScience]%20Abstract%20submission) before March 9th, 2021.
 
 
 ## Organisers
 
-- [Dr Stefano De Sabbata](https://stefanodesabbata.com/), University of Leicester
+- [Dr Stefano De Sabbata](https://sdesabbata.github.io/), University of Leicester
 - [Dr Andrea Ballatore](https://aballatore.space/), Birkbeck, University of London
 - [Dr James Haworth](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth), University College London
 - [Dr Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/team/gyeboah/), University of Warwick
