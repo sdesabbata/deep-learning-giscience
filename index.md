@@ -10,7 +10,7 @@ header:
     - label: "Submit an abstract"
       url: "mailto:s.desabbata@le.ac.uk?subject=[RGS-IBG%20AIC%202020,%20Deep%20learning%20GIScience]%20Abstract%20submission"
 excerpt: >
-  Advances, opportunities and limits of deep machine learning approaches in GIScience at the RGS AIC 2020
+  Advances, opportunities and limits of deep machine learning approaches in GIScience at the RGS AIC 2021
 ---
 
 The organisers and the [GIScience Research Group](https://geoinfo.science/) of the [Royal Geographical Society with IBG](https://www.rgs.org/) invite authors to submit 250-word abstracts for presentation at the **Deep learning approaches in GIScience** session at the [RGS-IBG Annual International Conference 2021](https://www.rgs.org/research/annual-international-conference/).
