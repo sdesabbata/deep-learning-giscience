@@ -1,20 +1,50 @@
 # Deep learning approaches in GIScience
 
-**Because of Covid, the RGS-IBG Annual International Conference 2020 has been postponed to 2021.**
-
-The organisers and the [GIScience Research Group (GIScRG)](https://quantile.info/giscrg/) of the [Royal Geographical Society](https://www.rgs.org/) invite authors to submit 250-word abstracts for presentation at the **Deep learning approaches in GIScience** session at the [RGS-IBG Annual International Conference 2020](https://www.rgs.org/research/annual-international-conference/).
+The organisers and the [GIScience Research Group](https://geoinfo.science/) of the [Royal Geographical Society with IBG](https://www.rgs.org/) are eager to invite you to attend the **Deep learning approaches in GIScience** sessions at the [RGS-IBG Annual International Conference 2021](https://www.rgs.org/research/annual-international-conference/).
 
 
-## Instructions for Authors
-Please submit abstracts of no more than 250 words (excluding references) for 15-minute presentations to [s.desabbata@le.ac.uk](mailto:s.desabbata@le.ac.uk?subject=[RGS-IBG%20AIC%202020,%20Deep%20learning%20GIScience]%20Abstract%20submission) before January 31st, 2020.
+
+## Sessions
+
+### Deep learning approaches in GIScience (1)
+
+Conference page: [*&#35;&#35;conf1132* Deep learning approaches in GIScience (1)](https://event.ac2021.exordo.com/session/118/conf1132-deep-learning-approaches-in-giscience-1)
+
+- *Remote Sensing Image Captioning with Continuous Output Neural Models*
+  - Rita Ramos (Portugal - IST and INESC-ID, University of Lisbon), Bruno Martins (Portugal - Universidade de Lisboa)
+- *Deep Learning for Population Mapping in Informal Settlements with High-Resolution Satellite Imagery and Equitable Ground-Truth*
+  - Konstantin Klemmer (United Kingdom - University of Warwick), Godwin Yeboah (United Kingdom - University of Warwick), João Porto de Albuquerque (United Kingdom - University of Warwick), Stephen A. Jarvis (United Kingdom - University of Warwick)
+- *Maps and Machines: Using Computer Vision to Analyze the Geography of Industrialization (1780-1920)*
+  - Kasra Hosseini (United Kingdom - The Alan Turing Institute), Katherine McDonough (United Kingdom - The Alan Turing Institute), Daniel van Strien (United Kingdom - The British Library), Olivia Vane (United Kingdom - The British Library), Kaspar Beelen (United Kingdom - The Alan Turing Institute), Daniel Wilson (United Kingdom - The Alan Turing Institute)
+- *Using Computer Vision to Improve Cycle Safety*
+  - Mohamed Ibrahim (United Kingdom - University College London), James Haworth (United Kingdom - University College London), Nicola Christie (United Kingdom - University College London), Tao Cheng (United Kingdom - University College London)
+- *A deep learning approach towards identify unhealthy advertisements in street view images*
+  - Gregory Palmer (Germany - Leibniz University), Mark Green (United Kingdom - University of Liverpool), Alex Singleton (United Kingdom - University of Liverpool), Rahul Savani (United Kingdom - University of Liverpool), Yales Stefano Rios Vasconcelos (United Kingdom - University of Liverpool), Emma Boyland (United Kingdom - University of Liverpool)
+
+### Deep learning approaches in GIScience (2)
+
+Conference page: [*&#35;&#35;conf1132* Deep learning approaches in GIScience (2)](https://event.ac2021.exordo.com/session/119/conf1132-deep-learning-approaches-in-giscience-2)
+
+- *Geospatial Data Disaggregation With Encoder-Decoder Convolutional Neural networks*
+  - João Monteiro (Portugal - Universidade de Lisboa), Bruno Martins (Portugal - Universidade de Lisboa), Miguel Costa (Portugal - Vodafone), João Moura Pires (Portugal - Universidade Nova de Lisboa)
+- *Creating a geodemographic classification for Greater London through spatial graph neural network*
+  - Pengyuan Liu (United Kingdom - University of Leicester), Stefano De Sabbata (United Kingdom - University of Leicester)
+- *Understanding how aerial image features extracted using CNNs capture socioeconomic characteristics*
+  - Melanie Green (United Kingdom - University of Liverpool), Daniel Arribas-Bel (United Kingdom - University of Liverpool)
+- *Deep learning for mapping and understanding urban scapes*
+  - Karin Pfeffer (Netherlands - University Of Twente), Alireza Ajami (Netherlands - HERE Technologies), Henri Debray (Netherlands - German Aerospace Center - Center for Earth Observation), Christien Klaufus (Netherlands - University of Amsterdam), Monika Kuffer (Netherlands - University Of Twente), Claudio Persello (Netherlands - University Of Twente), Robbin-Jan Van Duijne (Netherlands - University of Amsterdam), Xujiayi Yang (Netherlands - University Of Twente)
+- *A deep learning approach based on multisensory data for the official swiss land use/cover statistics*
+  - Adrian Meyer (Switzerland - University of Applied Sciences and Arts Northwestern Switzerland FHNW), Natalie Lack (Switzerland - University of Applied Sciences and Arts Northwestern Switzerland FHNW), Denis Jordan (Switzerland - University of Applied Sciences and Arts Northwestern Switzerland FHNW)
+
 
 
 ## Organisers
 
-- [Dr Stefano De Sabbata](https://stefanodesabbata.com/), University of Leicester
+- [Dr Stefano De Sabbata](https://sdesabbata.github.io/), University of Leicester
 - [Dr Andrea Ballatore](https://aballatore.space/), Birkbeck, University of London
 - [Dr James Haworth](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth), University College London
 - [Dr Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/team/gyeboah/), University of Warwick
+
 
 
 ## Abstract
