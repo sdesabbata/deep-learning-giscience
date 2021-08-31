@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/system-3699542_1920.jpg
   caption: "Photo credit: geralt (pixabay.com)"
   actions:
-    - label: "Get in contact!"
+    - label: "Get in touch!"
       url: "mailto:s.desabbata@le.ac.uk?subject=[RGS-IBG%20AIC%202020,%20Deep%20learning%20GIScience]%20About%20the%20sessions"
 excerpt: >
   Advances, opportunities and limits of deep machine learning approaches in GIScience at the RGS AIC 2021
