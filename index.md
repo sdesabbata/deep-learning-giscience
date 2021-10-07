@@ -17,6 +17,15 @@ The organisers and the [GIScience Research Group](https://geoinfo.science/) of t
 
 
 
+## Organisers
+
+- [Dr Stefano De Sabbata](https://sdesabbata.github.io/), University of Leicester
+- [Dr Andrea Ballatore](https://aballatore.space/), Birkbeck, University of London
+- [Dr James Haworth](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth), University College London
+- [Dr Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/team/gyeboah/), University of Warwick
+
+
+
 ## Sessions
 
 ### Deep learning approaches in GIScience (1)
@@ -60,15 +69,6 @@ Conference page: [*&#35;&#35;conf1132* Deep learning approaches in GIScience (2)
 - *A deep learning approach based on multisensory data for the official swiss land use/cover statistics*
   - Adrian Meyer (Switzerland - University of Applied Sciences and Arts Northwestern Switzerland FHNW), Natalie Lack (Switzerland - University of Applied Sciences and Arts Northwestern Switzerland FHNW), Denis Jordan (Switzerland - University of Applied Sciences and Arts Northwestern Switzerland FHNW)
   - **Abstract**: The area statistics of Switzerland provided periodically every six years by the Federal Office for Statistics classifies land use (LU) and land cover (LC) based on a regular 100x100m grid of 4.2 million sample points. The arduous manual labelling process performed by experts relies mainly on aerial imagery but uses a catalogue of additional data to obtain high reliability within the 46 LU and 27 LC classes. This study investigates the potential of a multisensory data fusion combined with modern artificial intelligence (AI) algorithms such as deep convolutional networks (CNN) and Random Forests (RF) in order to provide an automatic LU/LC classification. Therefore, the AI algorithm combines spatiotemporal information from aerial RGB and FCIR orthophotos, Sentinel 2 derived multispectral time series indices, digital elevation data, vegetation canopy height models and cadastral information. RGB and FCIR imagery is processed by an Xception CNN architecture and complemented with the data from satellite and GIS in order to present subsequently the combined vector to an RF classifier. The accurately annotated sample points serve as ground truth in this challenging paradigm with a high number of LU/LC classes. The combined CNN-RF model achieved overall accuracies of 84% for LU and 89% for LC. Extensive classes such as coherent tree population, which so far required a lengthy manual process, are classified with high specific accuracies >90%. We conclude that a cascade of AI algorithms based on multisensory data has the potential to support the costly expert-based classification.
-
-
-
-## Organisers
-
-- [Dr Stefano De Sabbata](https://sdesabbata.github.io/), University of Leicester
-- [Dr Andrea Ballatore](https://aballatore.space/), Birkbeck, University of London
-- [Dr James Haworth](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/people/dr-james-haworth), University College London
-- [Dr Godwin Yeboah](https://warwick.ac.uk/fac/arts/schoolforcross-facultystudies/igsd/about/team/gyeboah/), University of Warwick
 
 
 
